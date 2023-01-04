@@ -13,5 +13,21 @@ public class Sample {
 	public void m3() {
 		System.out.println("three");
 	}
+	
+	private void tamil() {
+		System.out.println("tamil");
+	}
+	
+	private void english() {
+		System.out.println("english");
+	}
+	
+	private void hindi() {
+		System.out.println("hindi");
+	}
+	private void urdu() {
+		System.out.println("urdu");
+	}
+	
 
 }
