@@ -25,5 +25,9 @@ public class Sample {
 	private void hindi() {
 		System.out.println("hindi");
 	}
+	private void urdu() {
+		System.out.println("urdu");
+	}
+	
 
 }
